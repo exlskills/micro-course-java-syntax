@@ -1,12 +1,12 @@
-url_name: basics_java
+url_name: syntax_java
 display_name: AP® Computer Science A (Java)
 org: EXLskills
-course: basics_java
+course: syntax_java
 course_image: https://s3-us-west-2.amazonaws.com/exlskills-course-logos/ap-java-course.jpg
 language: en
 est_minutes: 3600
 primary_topic: Java
-repo_url: https://github.com/exlskills/course-java-basics
+repo_url: https://github.com/exlskills/micro-course-java-syntax
 topics:
   - Java
   - AP
